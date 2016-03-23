@@ -2,6 +2,8 @@
 
 Imagine that you are a month into your Nanodegree program and you’re stuck. Totally stuck. You have no idea what’s wrong and you have no idea how to get yourself out of this mess. You’ll write a letter to yourself using what you’ve learned. How will you solve your problem? What skills do you have now that will help you tackle challenges? How will what you’ve learned about having a growth mindset help you reach your goals?
 
+## Letter to Self
+
 Dear Gary,
 
 So you're having some trouble with your current assignment? You knew it wasn't going to be easy. The Udacity people told you it wasn't going to easy. Remember those articles they had you read at the beginning of the course? Okay, what to do...
@@ -23,9 +25,19 @@ Keep moving forward.
 Best,
 Gary
 
+## My Goals
 
-Optional: Consider writing your letter using basic markdown syntax, a key skill that front-end developers use to write readmes.
+It's been a long journey from semiconductor field engineer, to electricity sales (yes, there is such a thing), to operations analyst, to IT Business Analyst. I've been interested in becoming a developer for a few years. I created the Business Analyst role for myself at my current company with the goal of using that experience to transition into a developer role.
 
-Write a brief statement sharing your goals as a developer with us. These goals can be project goals, career goals, or personal goals. Is there a dream job you’re working toward? Is there a project idea you’ve been aching to start working on?
+As I've learned more about hwo software is developed and deployed, I've been refining what type of developer I want to be. There's a dilema I've been trying to work through. I enjoy working for my current company, but we're a .NET shop. And after spending time learning a bit of Python and seeing what an elegant, product language it is, I can't seem to work-up the motivation to delve into the bowels of C#. But, not only is my company a .NET shop, Houston is a .NET town. So, unless I want to freelance or move to Austin (which I'd consider), being a Python developer is not a great option in the short term.
+
+However, what I do see at my company is a shortage of front-end expertise. We do have some, but it's spread thin. So what I came up with is:
+1) Become a front-end developer at my current company
+  a) Create and build a portfolio of projects I can show, and impress people here enough to become a junior-ish front-end developer. Once of the projects might include a re-factor of a few of the pages in an application I developed the specs for. 
+  b) Demonstrate enough technical proficiency with HTML, CSS, and Javascript so my manger is comfortable letting me work as a front-end developer
+2) Develop enough Python proficiency to pick-up some full-stack projects on the side; aided by my front-end experience
+3) Look for a full-stack Python position somewhere in Texas.
+
+
 Optional: In addition to your goals, we also want to know about any questions you have about the process of becoming a Front End Developer. Is there anything about being a Front-End Developer that you’d like to know more about?
 Your reflection project will be reviewed by our Udacity project reviewers, who are all working developers. They are real humans who have faced the same challenges you will, so they’ll be able to offer up some insights that may help you as you embark on these goals! Make sure to take some time to really think about these reflections. Many of these developers have had the same questions and concerns as you, and they want to hear what you have to say!
