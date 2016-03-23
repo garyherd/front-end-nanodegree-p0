@@ -1,11 +1,22 @@
-# front-end-nanodegree---p0
-write up for developing web developer mindset
+# Project P0 - Developing a Web Developer Mindset
 
 Imagine that you are a month into your Nanodegree program and you’re stuck. Totally stuck. You have no idea what’s wrong and you have no idea how to get yourself out of this mess. You’ll write a letter to yourself using what you’ve learned. How will you solve your problem? What skills do you have now that will help you tackle challenges? How will what you’ve learned about having a growth mindset help you reach your goals?
 
 Dear Gary,
 
-So you're having some trouble with your current assignment?
+So you're having some trouble with your current assignment? You knew it wasn't going to be easy. The Udacity people told you it wasn't going to easy. Remember those articles they had you read at the beginning of the course? Okay, what to do...
+
+First, get your mind right. Recall the "growth mindset" from Joyce Alkiko's "How To Navigate The Up And Downs Of Learning To Code". What can you take away from this challenge so you can get better? Don't worry about how far along, or how much better other developers are; they had to go through something like this too.
+
+Next, take a break! Go take a walk, or go listen to some music for 20 minutes. Seeing the problem with fresh eyes might do the trick.
+
+Once you're back here are some more suggestions:
+1) Draw pictures and diagrams. It'll give you another perspective on the problem, and to force you think through the logic of what your trying to do. Get the problem out of your head.
+2) Google & Stack Overflow - paste your errors into google - the answer may pop right-up, or least give you some ideas on how to proceed.
+3) Reach out for help. Ask some of the developers at work for help, use forums in the course, try Slack too.
+4) Keep going! Try to make a little progress each day.
+
+Remember Cameron's quote, "you aren't wrong, you just right yet."
 
 Keep moving forward.
 
