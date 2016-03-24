@@ -9,7 +9,7 @@ Dear Gary,
 
 So you're having some trouble with your current assignment? You knew it wasn't going to be easy. The Udacity people told you it wasn't going to be easy. Remember those articles you read at the beginning of the course? Okay, what to do...
 
-First, get your mind right. Recall the "growth mindset" from Joyce Akiko's "How To Navigate The Up And Downs Of Learning To Code". What can you take away from this challenge so you can get better? Don't worry about how far along, or how much better, other developers are; they had to go through something like this too.
+First, get your mind right. Recall the "growth mindset" from Joyce Akiko's "How To Navigate The Up And Downs Of Learning To Code". What can you take away from this challenge so you can get better? Don't worry about how far along, or how much better, other developers are; they had to go through something like this too. There's that great line from the movie Rocky Balboa where he says, "It ain't about how hard you can hit, it's about how hard you can _get hit_ and keep moving forward.
 
 Next, take a break! Go take a walk, or go listen to some music for 20 minutes. Seeing the problem with fresh eyes might do the trick.
 
