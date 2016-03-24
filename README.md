@@ -35,7 +35,7 @@ As I learn more about how software is developed and deployed, the path gets a li
 However, what I see at my company is a shortage of front-end expertise. We do have some, but it's spread thin. So here's the latest revision of my short, medium, and long term career goals:
 
 1. Become a front-end developer at my current company
-  * Create and build a portfolio of projects I can show, and impress, people here enough so they let me work as a junior-ish front-end developer.
+  * Create and build a portfolio of projects that will impress people here enough to me work as a junior-ish front-end developer.
   * One of the projects might include a re-factor of a few pages of an application I developed the specs for. 
   * Demonstrate enough technical proficiency with HTML, CSS, and Javascript so my manger is comfortable letting me work as a front-end developer
 2. Develop enough Python proficiency to pick-up some full-stack projects on the side by showcasing my front-end and BA experience.
